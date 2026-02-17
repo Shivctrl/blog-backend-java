@@ -26,5 +26,4 @@ This is a backend REST API project developed using Spring Boot.
 ## How to Run
 1. Clone the repository
 2. Configure database in application.properties
-3. Run the project:
-4. 
+3. Run the project
